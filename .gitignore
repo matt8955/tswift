@@ -3,3 +3,5 @@
 .ipynb_checkpoints
 .DS_Store
 s2v_reddit_2019_lg/
+lyrics.pkl
+.vscode/
